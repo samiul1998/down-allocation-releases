@@ -1,5 +1,5 @@
 # Down Allocation Tool
-**Professional down/crash fiber allocation software for textile industry with advanced CAD integration**
+**Professional down/crash fiber allocation software for outerwaer industry with advanced CAD integration**
 
 ## 📥 Download
 **[⬇️ Download Latest Version](https://github.com/samiul1998/down-allocation-releases/releases/latest)**
