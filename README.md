@@ -7,9 +7,9 @@
 ## ✨ Key Features
 
 ### 🔄 **CAD Integration & Import**
-- **Direct Excel Import** from Richpeace CAD system
-- **GetOnAgain** pattern software integration
-- **Lectra** modular system compatibility
+- **Direct Sewing Area (Excel) Import** from **Richpeace** CAD system
+- **Direct Sewing Area (Excel) Import** from **getOnAgain** CAD system
+- **Direct Sewing Area (File) Import** from **Lectra** CAD system
 - Seamless workflow from pattern design to allocation
 
 ### ⚖️ **Advanced Measurement Options**
@@ -21,7 +21,7 @@
 ### 🎯 **Smart Allocation System**
 - Automatic down/crash fiber allocation calculations
 - Size-wise allocation distribution
-- **Panel Adjustment Options** for optimized cutting
+- **Panel Adjustment Options** for optimized filling to individual panel
 - Real-time calculation updates
 
 ### 📊 **Professional Reporting**
@@ -52,8 +52,8 @@
 
 ### **Supported CAD Systems**
 - ✅ Richpeace CAD (Direct Excel import)
-- ✅ GetOnAgain pattern software
-- ✅ Lectra modular systems
+- ✅ GetOnAgain CAD (Direct Excel import)
+- ✅ Lectra (Direct File import)
 - ✅ Standard Excel formats
 
 ### **Measurement Units**
