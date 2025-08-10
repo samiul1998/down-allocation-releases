@@ -1,4 +1,4 @@
-# Down Allocation System
+# Down Allocation Tool
 **Professional down/crash fiber allocation software for textile industry with advanced CAD integration**
 
 ## 📥 Download
